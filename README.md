@@ -18,10 +18,10 @@ A reproduction of ViewCell.OnDisappearing not firing
 Version 7.1 (build 1297)
 Installation UUID: 6e5142b4-e8be-4d1c-b75e-4744b0d8c3de
 Runtime:
-	Mono 5.2.0.215 (d15-3/da80840) (64-bit)
-	GTK+ 2.24.23 (Raleigh theme)
-
-	Package version: 502000215
+>Mono 5.2.0.215 (d15-3/da80840) (64-bit)
+>GTK+ 2.24.23 (Raleigh theme)
+>
+>Package version: 502000215
 
 === NuGet ===
 
